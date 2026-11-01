@@ -1,7 +1,8 @@
-# Andy
+# Google Workspace MCP Connector
 
-Andy is a personal assistant used only by its owner, Tereza Schwarzová.
-It connects her own Google account (Calendar, Gmail, Contacts, Drive) to a
-local AI assistant running on her computer. It is not offered to anyone else.
+Google Workspace MCP Connector is a private tool used only by its owner.
+It connects the owner's own Google account (Calendar, Gmail, Contacts, Drive)
+to a local AI assistant running on the owner's computer. It is not offered
+to anyone else.
 
 [Privacy policy](privacy.html)

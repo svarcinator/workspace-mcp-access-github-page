@@ -1,6 +1,6 @@
-# Privacy policy — Andy
+# Privacy policy — Google Workspace MCP Connector
 
-Andy is used only by its owner for personal use.
+Google Workspace MCP Connector is used only by its owner for personal use.
 
 - Data from Google APIs (Calendar, Gmail, Contacts, Drive) is accessed only
   after the owner signs in and gives consent.
